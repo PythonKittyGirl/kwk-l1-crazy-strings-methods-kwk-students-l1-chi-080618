@@ -6,5 +6,5 @@ loop do
     break
   end
   counter +=1 
-  puts "The counter is: #{counter}!"
+  puts "#{counter}!"
 end
