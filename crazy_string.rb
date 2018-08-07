@@ -1,6 +1,6 @@
 def crazy_strings(a,b)
-puts 'apple'.reverse.upcase
-puts a=a.upcase.
-puts  b=b.gsub("S","Z").gsub("s","z").upcase
+return a=a.reverse.upcase
+return b=b.gsub("S","Z").gsub("s","z").swapcase
+
 end
 crazy_strings("Hello", "Friends")
