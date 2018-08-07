@@ -7,3 +7,4 @@ loop do
   end
   counter +=1 
   puts "The counter is: #{counter}!"
+end
